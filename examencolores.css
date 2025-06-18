@@ -1,0 +1,16 @@
+section{
+    color: green;
+    text-align: center;
+    width: 35%;
+    margin: 0px auto;
+}
+h1{
+    color: blue;
+}
+#h1{
+    text-align: center;
+}
+#links{
+    width: 100%;
+    text-align: center;
+}
