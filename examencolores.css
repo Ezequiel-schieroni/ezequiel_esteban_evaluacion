@@ -3,6 +3,7 @@ section{
     text-align: center;
     width: 35%;
     margin: 0px auto;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 h1{
     color: blue;
@@ -11,4 +12,5 @@ h1{
 #links{
     width: 100%;
     text-align: center;
+
 }
